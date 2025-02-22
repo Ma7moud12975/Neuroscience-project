@@ -12,3 +12,4 @@ The code is written in Python and uses NumPy for matrix operations. Check out th
 
 ## Author
 [ Mahmoud Ayman ]
+![Untitled-3](https://github.com/user-attachments/assets/ff01ecca-2503-4f91-825f-c9e641e795fd)
