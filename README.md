@@ -1,4 +1,4 @@
-# Neural Network with Tanh Activation
+![journal-cms_subjects_2021-11_elife-sciences-neuroscience-illustration](https://github.com/user-attachments/assets/010103bf-ce47-42ed-b0f6-ced2ea5060f4)
 
 This project implements a simple neural network with a tanh activation function in Python. The network uses random weight initialization and fixed biases to compute the output for a given input.
 
