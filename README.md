@@ -11,5 +11,4 @@ This project implements a simple neural network with a tanh activation function 
 The code is written in Python and uses NumPy for matrix operations. Check out the `Neuroscience project.py` file for the implementation.
 
 ## Author
-[ Mahmoud Ayman ]
 ![Untitled-3](https://github.com/user-attachments/assets/ff01ecca-2503-4f91-825f-c9e641e795fd)
