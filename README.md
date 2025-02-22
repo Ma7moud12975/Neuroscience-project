@@ -3,9 +3,14 @@
 This project implements a simple neural network with a tanh activation function in Python. The network uses random weight initialization and fixed biases to compute the output for a given input.
 
 ## How It Works
-1. The input vector is passed through a hidden layer with tanh activation.
-2. The output layer computes the final result without an activation function.
-3. Weights are randomly initialized between -0.5 and 0.5.
+This Python script implements a simple artificial neural network with one hidden layer and two output neurons using the tanh activation function.
+
+Weight Initialization: Weights are randomly chosen from [-0.5, 0.5].
+Forward Propagation:
+Computes hidden layer activation.
+Computes output layer activation.
+Error Calculation: Uses Mean Squared Error (MSE).
+Output: Prints intermediate values, final network output, and error.
 
 ## Code
 The code is written in Python and uses NumPy for matrix operations. Check out the `Neuroscience project.py` file for the implementation.
